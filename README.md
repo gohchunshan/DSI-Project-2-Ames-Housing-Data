@@ -15,8 +15,11 @@ To fit a regression model to determine the important determinants of Ames housin
 
 ## Data Dictionary
 
+The [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt) is found here.
 
 ## Kaggle Submission
+
+
 
 ## Discussion
 
